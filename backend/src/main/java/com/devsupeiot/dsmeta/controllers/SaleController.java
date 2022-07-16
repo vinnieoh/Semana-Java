@@ -1,4 +1,4 @@
-package com.devsuperior.dsmeta.controllers;
+package com.devsupeiot.dsmeta.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
